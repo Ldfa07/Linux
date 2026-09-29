@@ -9,7 +9,7 @@
 ✅ **Mise à jour du système** (`apt update`, `dist-upgrade`, `autoremove`)
 ✅ **Création d'un utilisateur** avec droits `sudo`
 ✅ **Configuration SSH** :
-   - Changement du port SSH (par défaut : **50822**)
+   - Changement du port SSH (par défaut : **22222**)
    - Copie des clés `authorized_keys` depuis `/root/.ssh/`
    - Sauvegarde automatique de `sshd_config`
 ✅ **Personnalisation du `.bashrc`** (aliases `ls`, `ll`, `l` avec couleurs)
