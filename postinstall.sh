@@ -8,7 +8,7 @@ set -euo pipefail  # Arrête le script en cas d'erreur
 
 # --- Variables par défaut ---
 NEW_USER="ldfa"
-SSH_PORT="50822"
+SSH_PORT="2222"
 TIMEZONE="Europe/Paris"
 LOCALE="fr_FR.UTF-8"
 DRY_RUN=false
