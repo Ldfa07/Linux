@@ -131,6 +131,8 @@ Ce projet est sous licence **MIT** – libre à utiliser, modifier et distribuer
 Les contributions sont les bienvenues !
 Ouvre une **Issue** ou une **Pull Request** sur [GitHub](https://github.com/Ldfa07/Linux).
 
+Merci à **Mistral Vibe** pour son aide précieuse, cela fait plus de 30 ans que je n'avais pas écrit de script Bash.
+
 ---
 
 ## 📞 **Support**
